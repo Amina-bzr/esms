@@ -1,0 +1,18 @@
+:root{
+    --main-bg-color : #143082;
+    --main-text-color : #FFFFFF;
+    --card-bg-color : linear-gradient(107.82deg, rgba(185, 22, 199, 0.2) 1.25%, rgba(0, 0, 0, 0.05) 101.65%),
+                    linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 248, 248, 0) 100%);
+
+    --workshop-card-bg : linear-gradient(0deg, rgba(124, 26, 212, 0.2), rgba(124, 26, 212, 0.2)),
+                        linear-gradient(180deg, rgba(255, 255, 255, 0.29) 0%, rgba(255, 248, 248, 0) 100%);;
+    --buble-color-1 : linear-gradient(180deg, #3453C0 0%, rgba(21, 202, 226, 0) 100%);
+    --buble-color-2 : linear-gradient(180deg, #FC0707 0%, rgba(34, 5, 72, 0) 100%);
+    --buble-color-3 : linear-gradient(184.83deg, #B916C7 3.9%, rgba(255, 7, 82, 0) 96.66%);
+    --agenda-node : #FFDA46;
+    
+}
+
+body{
+    background: var(--workshop-card-bg);
+}
